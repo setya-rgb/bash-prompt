@@ -18,6 +18,6 @@ A modular, feature-rich Bash prompt with Git integration, virtual environment de
 ## Quick Install
 
 ```bash
-git clone https://github.com/yourusername/bash-prompt-framework.git
-cd bash-prompt-framework
+https://github.com/setya-rgb/bash-prompt.git
+cd bash-prompt.git
 ./install.sh
